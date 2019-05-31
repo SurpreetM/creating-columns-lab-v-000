@@ -58,13 +58,13 @@ img:hover {
 }
 
 .medium{
-  width: 201%;
-  height: 201%
+  width: 201.5%;
+  height: 201.5%
 }
 
 .large {
-  width: 302%;
-  height: 302%
+  width: 303%;
+  height: 303%
 }
 
 /* create your tile classes! we recommend .small .med .large */
